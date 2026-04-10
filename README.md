@@ -6,7 +6,7 @@ Ich bin Merlin, ein 16 Jähriger Junge aus dem Internet :)
   <img src="https://skillicons.dev/icons?i=git,ts,js,php,linux,nodejs,nuxtjs,vue,express,prisma" />
 </p>
 
-## Tools
+## ⚙️ Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=discordjs,gitlab,docker,nginx,postgres,webstorm" />
 </p>
