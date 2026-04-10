@@ -16,7 +16,7 @@ Ich bin Merlin, ein 16 Jähriger Junge aus dem Internet :)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hohenblaustein) [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D36678)](https://codetime.dev)
 <p align="center">
-  <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/1449767599587066028?theme=dark&showDisplayName=true)](https://discord.com/users/1449767599587066028)" />
+  <img src="https://lanyard.cnrad.dev/api/1449767599587066028?theme=dark&showDisplayName=true)](https://discord.com/users/1449767599587066028" />
 </p>
 
 ---
