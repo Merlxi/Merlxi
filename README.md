@@ -1,4 +1,4 @@
-# Moin 👋
+# Moin Miteinanner 👋
 Ich bin Merlin, ein 16 Jähriger Junge aus dem Internet :)
 
 ## 💻 Tech Stack:
